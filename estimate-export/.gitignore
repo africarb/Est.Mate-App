@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local servers
+node_modules/
+.serve-cache/
+
+# Excel temp/lock files
+~$*.xlsx
+.~lock.*
