@@ -2,7 +2,7 @@
 
 Single-file React application for South African construction estimating, built as a self-contained HTML file. No build step required — open `src/index.html` directly in a browser, or serve it locally.
 
-## Quick start
+## Quick startg d
 
 ```bash
 # Option 1 — open directly in browser
